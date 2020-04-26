@@ -19,7 +19,7 @@ public class Connection extends Thread implements Runnable{
                     Socket client = new Socket(ip, port);
                     PrintWriter out = new PrintWriter(client.getOutputStream(), true);
                 ) {
-                    out.println(model.getName()+"/"+model.getLatitude()+"/"+model.getLatitude());
+                    out.println(model.getName()+"/"+model.getLatitude()+"/"+model.getLongitude());
                 }catch(Exception e){
                     e.printStackTrace();
                 }
