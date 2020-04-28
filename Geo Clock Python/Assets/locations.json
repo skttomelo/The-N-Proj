@@ -1,0 +1,43 @@
+{
+    "places": [
+        {
+            "name": "Home",
+            "geo_fence": 1.0,
+            "latitude": 34.211204,
+            "longitude": -83.790414
+        },
+        {
+            "name": "School",
+            "geo_fence": 1.0,
+            "latitude": 34.527711,
+            "longitude": -83.984211
+        },
+        {
+            "name": "Zaxby's",
+            "geo_fence": 0.5,
+            "latitude": 34.287149,
+            "longitude": -83.840335
+        },
+        {
+            "name": "Hospital",
+            "geo_fence": 1.0,
+            "latitude": 34.304114,
+            "longitude": -83.815841
+        },
+        {
+            "name": "Walmart",
+            "geo_fence": 0.5,
+            "latitude": 34.291991,
+            "longitude": -83.850422
+        },
+        {
+            "name": "Yahoola Creek Park",
+            "geo_fence": 1.0,
+            "latitude": 34.529764,
+            "longitude": -83.960154
+        },
+        {
+            "name": "Traveling"
+        }
+    ]
+}
